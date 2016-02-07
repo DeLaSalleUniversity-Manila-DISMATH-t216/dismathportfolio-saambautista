@@ -1,8 +1,6 @@
 # dismathportfolio-saambautista
 dismathportfolio-saambautista created by Classroom for GitHub
 
-¬q → ¬p
-
 #Superman Assignment:
 <UL>
 <LI> a: superman is able to prevent evil

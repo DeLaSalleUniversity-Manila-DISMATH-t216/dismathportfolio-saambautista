@@ -47,3 +47,8 @@ dismathportfolio-saambautista created by Classroom for GitHub
 <LI> There will always be a basis step before proceeding to the main process such as the inductive or recursive step.
 <LI> The basis step is the assumption process while the inductive or recursive step is the step were the statement is proved.
 </UL>
+
+# DISMATH Project MIT Inventor App
+# Screenshots
+![alt tag](https://raw.githubusercontent.com/DeLaSalleUniversity-Manila-DISMATH-t216/dismathportfolio-saambautista/master/App.png)
+![alt tag](https://raw.githubusercontent.com/DeLaSalleUniversity-Manila-DISMATH-t216/dismathportfolio-saambautista/master/App1.png)

@@ -50,5 +50,5 @@ dismathportfolio-saambautista created by Classroom for GitHub
 
 # DISMATH Project MIT Inventor App
 # Screenshots
-![alt tag](https://raw.githubusercontent.com/DeLaSalleUniversity-Manila-DISMATH-t216/dismathportfolio-saambautista/master/App.png)
-![alt tag](https://raw.githubusercontent.com/DeLaSalleUniversity-Manila-DISMATH-t216/dismathportfolio-saambautista/master/App1.png)
+![alt tag](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/dismathportfolio-saambautista/blob/master/App.PNG)
+![alt tag](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/dismathportfolio-saambautista/blob/master/App1.PNG)

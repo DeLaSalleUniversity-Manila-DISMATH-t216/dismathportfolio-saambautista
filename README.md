@@ -202,8 +202,10 @@ dismathportfolio-saambautista created by Classroom for GitHub
             v=V
       </UL>
 <LI> Subgraph of a graph
-      - G=(V,E) is a graph of H=(W,F), where W ⊆ V and F ⊆ E
-      - subgraph of H of G is a proper subgraph of G if H ≠ G
+      <UL>
+      <LI> G=(V,E) is a graph of H=(W,F), where W ⊆ V and F ⊆ E
+      <LI> subgraph of H of G is a proper subgraph of G if H ≠ G
+      </UL>
 <LI> Path - sequence of edges that begins at a vertex of a graph and travels from vertex to vertex along edges of the graph
 <LI> Euler Ciruit - a simple circuit that contains every edge of the graph; all nodes have even degrees; start and end of the circuit is the same
 <LI> Euler Path - a simple path tha contains every edge of the graph; only one way path; exactly 2 nodes with odd degree
@@ -221,12 +223,17 @@ dismathportfolio-saambautista created by Classroom for GitHub
 <LI> Homeomorphic Graphs - can be obtained from the same graph by a sequence of elementary subdivision
 <LI> Elementary Subdivision - removing an edge and reconnecting it with a node at the middle; same graph, unequal number of nodes and edges
 <LI> Graph Coloring- assignment of a color to each vertex provided that adjacent vertices does not have the same color; minimal use of color
-      - Chromatic number - least colors needed for a coloring of graph
-      - Four Color Theorem - only applies to planar graphs; chromatic number that is no greater than 4
+      <UL>
+      <LI> Chromatic number - least colors needed for a coloring of graph
+      <LI> Four Color Theorem - only applies to planar graphs; chromatic number that is no greater than 4
+      </UL>
 <LI> Trees - connected undirected graph with no simple circuits; data structure with a set of linked nodes
 <LI> Rooted Tree - a tree in which one vertex has been designated
-      - internal nodes - parents
-<LI> m-ary tree - every internal vertex has no more than m childre
+      <UL>
+      <LI> internal nodes - parents
+      <LI> leaves - children
+      </UL>
+<LI> m-ary tree - every internal vertex has no more than m children
 <LI> Ordered rooted tree - rooted tree where the children of each internal vertex are ordered
 <LI> Tree traversal - Universal Address Systems
 <LI> Preordered Traversal - ordered rooted tree; visit root (subtrees from left to right)

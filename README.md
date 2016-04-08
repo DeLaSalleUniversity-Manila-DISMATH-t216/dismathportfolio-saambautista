@@ -56,36 +56,48 @@ dismathportfolio-saambautista created by Classroom for GitHub
 #Week 5
 <UL>
 <LI> Recursive algorithm was discussed
-<LI> Program Correctness </b>
-      - Program Verification - put input and see if it gives the correct output.
-      - Partial Correctness
-            - Initial Assertion, p, gives the properties that the input values must have.
-            - Final Assertion, q, the output.
-      - Hoare Triple: p{S}q where S is the program segment.
-            - Assume p ≡ T
-            - Substitute p to S, then show q ≡ T
-      - Proving of Compound Program - Rules of Inference
+<LI> Program Correctness <b>
+      <UL>
+      <LI> Program Verification - put input and see if it gives the correct output.
+      <LI> Partial Correctness
+            <UL>
+            <LI> Initial Assertion, p, gives the properties that the input values must have.
+            <LI> Final Assertion, q, the output.
+            </UL>
+      <LI> Hoare Triple: p{S}q where S is the program segment.
+            <UL>
+            <LI> Assume p ≡ T
+            <LI> Substitute p to S, then show q ≡ T
+            </UL>
+      <LI> Proving of Compound Program - Rules of Inference
             p{S1}q
             q{S2}r
             ∴ p{S1:S2}r
-      - Proving Conditional Statements
+      <LI>Proving Conditional Statements
             (p∧condition){S}q
             (p∧¬condition)→q
             ∴p{if condition then S} → q
+      </UL>
 <LI> Power Series
-      - Zeno's Paradox
-      - Represented by:
+      <UL>
+      <LI> Zeno's Paradox
+      <LI> Represented by:
           ∞
           ∑ Anx^n = 1 + x + x^2 + x^3 +... 
           n=0
+      </UL>
 <LI> Set Theory 
-      - set is an unordered collection of distinct objects
-      - Empty Set/Null Set - { } = ∅ 
-      - Set-builder notation - { x| some property of x satisfies }
+      <UL>
+      <LI> set is an unordered collection of distinct objects
+      <LI> Empty Set/Null Set - { } = ∅ 
+      <LI> Set-builder notation - { x| some property of x satisfies }
+      </UL>
 <LI> Venn Diagrams
-      - A ∪ B - Union
-      - A ∩ B - Intersection
-      - A - B or A \ B - Difference
+      <UL> 
+      <LI> A ∪ B - Union
+      <LI> A ∩ B - Intersection
+      <LI> A - B or A \ B - Difference
+      </UL>
 <LI> Set Identitites - same as logical equivalences F to ∅, T to U, p to A, q to B, ∧to ∩ and ∨ to ∪
 <LI> Subsets - S ⊆ T (S is a subset of T)
 <LI> Power Sets - ℘(S) = {T| T ⊆ S }; set of a subset
@@ -97,9 +109,11 @@ dismathportfolio-saambautista created by Classroom for GitHub
 <UL>
 <LI> Review for Q1
 <LI> Nested Quantifiers 
-      - The choices of x, some y, P(x,y) is true - ∀x∃yP(x,y)
-      - Some x, choices of y, P(x,y) is true- ∃x∀yP(x,y)
-      - Negation of Statements
+      <UL>
+      <LI> The choices of x, some y, P(x,y) is true - ∀x∃yP(x,y)
+      <LI> Some x, choices of y, P(x,y) is true- ∃x∀yP(x,y)
+      <LI> Negation of Statements
+      </UL>
 <LI> Proof by cases
 <LI> Proof by exhaustion
 <LI> Existence Proofs

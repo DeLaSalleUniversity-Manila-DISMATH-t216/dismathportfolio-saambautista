@@ -162,13 +162,15 @@ dismathportfolio-saambautista created by Classroom for GitHub
 <LI> Big-Ω - looks for the lower bound of f(x)
 <LI> Big-ϴ - looks for both the upper and lower bound of f(x)
 <LI> Time Complexity - can be expressed in terms of the number of operations used by the algorithms; number of comparisons will be used as the measure of the time complexity
-      - ϴ(1) - Constant complexity
-      - ϴ(log n) - Logarithmic Complexity
-      - ϴ(n) - Linear complexity
-      - ϴ(n log n) - n log n complexity
-      - ϴ(n^b) - Polynomial complexity
-      - ϴ(b^n), where b>1 - Exponential Complexity
-      - ϴ(n!) - Factorial Complexity
+      <UL>
+      <LI> ϴ(1) - Constant complexity
+      <LI> ϴ(log n) - Logarithmic Complexity
+      <LI> ϴ(n) - Linear complexity
+      <LI> ϴ(n log n) - n log n complexity
+      <LI> ϴ(n^b) - Polynomial complexity
+      <LI> ϴ(b^n), where b>1 - Exponential Complexity
+      <LI> ϴ(n!) - Factorial Complexity
+      </UL>
 <LI> Division and Modulo
       - let a = dq + r where a is an integer and d is a positive integer
       - q = a div d - quotient

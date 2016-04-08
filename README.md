@@ -56,7 +56,7 @@ dismathportfolio-saambautista created by Classroom for GitHub
 #Week 5
 <UL>
 <LI> Recursive algorithm was discussed
-<LI> Program Correctness
+<LI> Program Correctness </b>
       - Program Verification - put input and see if it gives the correct output.
       - Partial Correctness
             - Initial Assertion, p, gives the properties that the input values must have.

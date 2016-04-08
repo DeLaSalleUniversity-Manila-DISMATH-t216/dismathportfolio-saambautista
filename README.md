@@ -158,7 +158,9 @@ dismathportfolio-saambautista created by Classroom for GitHub
 <LI> Growth of Functions was discussed
 <LI> Big-O, Big-Ω and Big-ϴ
 <LI> Big-O Notation - looks for the upper bound of f(x)
-      - Common Big-O Estimates - n!, 2^n, n^2, n log n, n, log n, 1
+      <UL>
+      <LI> Common Big-O Estimates - n!, 2^n, n^2, n log n, n, log n, 1
+      </UL>
 <LI> Big-Ω - looks for the lower bound of f(x)
 <LI> Big-ϴ - looks for both the upper and lower bound of f(x)
 <LI> Time Complexity - can be expressed in terms of the number of operations used by the algorithms; number of comparisons will be used as the measure of the time complexity
@@ -172,9 +174,11 @@ dismathportfolio-saambautista created by Classroom for GitHub
       <LI> ϴ(n!) - Factorial Complexity
       </UL>
 <LI> Division and Modulo
-      - let a = dq + r where a is an integer and d is a positive integer
-      - q = a div d - quotient
-      - r = a mod d - remainder(modulo)
+      <UL>
+      <LI> let a = dq + r where a is an integer and d is a positive integer
+      <LI> q = a div d - quotient
+      <LI> r = a mod d - remainder(modulo)
+      </UL>
 </UL>
 
 #Week 11

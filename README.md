@@ -58,7 +58,7 @@ dismathportfolio-saambautista created by Classroom for GitHub
 #Week 5
 <UL>
 <LI> Recursive algorithm was discussed
-<LI> Program Correctness <b>
+<LI> Program Correctness 
       <UL>
       <LI> Program Verification - put input and see if it gives the correct output.
       <LI> Partial Correctness
@@ -121,11 +121,13 @@ dismathportfolio-saambautista created by Classroom for GitHub
 <LI> Existence Proofs
 <LI> Uniqueness Proof
 <LI> Functions
-      - function - assignment of exactly one element of B to each element of A; also called mappings or transformations 
-      - One-to-one Function (Injective)
-      - Onto Function (Surjective) - functions have equal range and codomain
-      - Bijective Function (Bijection) - both one-to-one and onto function
-      - Relation - not a function; one to many
+      <UL>
+      <LI> function - assignment of exactly one element of B to each element of A; also called mappings or transformations 
+      <LI> One-to-one Function (Injective)
+      <LI> Onto Function (Surjective) - functions have equal range and codomain
+      <LI> Bijective Function (Bijection) - both one-to-one and onto function
+      <LI> Relation - not a function; one to many
+      </UL>
 </UL>
 
 #Week 7
